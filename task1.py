@@ -1,6 +1,0 @@
-Number_1=int(input("Enter the first number: "))
-Number_2=int(input("Enter the second number: "))
-print(Number_1+Number_2)
-print(Number_1-Number_2)
-print(Number_1*Number_2)
-print(Number_1/Number_2)
